@@ -18,7 +18,7 @@ The honeypot simulates a Telnet service and logs suspicious behavior. It also in
 - 🧠 Telnet login attempt logging and pattern analysis
 - 🛑 DDoS detection based on connection rate and IP entropy
 - 💾 Logs events to file with timestamps
-- 📊 Optional: GUI or dashboard support (coming soon)
+- 📊 GUI or dashboard support 
 
 ---
 
